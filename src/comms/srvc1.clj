@@ -32,6 +32,6 @@
 (comment
   
   (start #'process)
-  (reset! run-service false)
+  (reset! run-service? false)
 
   )
